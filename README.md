@@ -18,4 +18,5 @@ It is creating table in the DB and performing redirect to "/".
 
 You can use the application: `http://<your_server_ip>:3000`  
 
-
+==========
+On CentOS should be installed: `yum install httpd mc cpan gcc perl-App-cpanminus.noarch perl-DBI perl-DBD-MySQL mariadb-server`
