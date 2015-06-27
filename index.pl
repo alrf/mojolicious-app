@@ -108,7 +108,7 @@ __DATA__
     <link rel="stylesheet" href="//cdn.jsdelivr.net/99lime/0.94/css/kickstart.css">
   </head>
   <body><%= content %></body>
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
   <script src="//cdn.jsdelivr.net/jquery.validation/1.13.1/jquery.validate.min.js"></script>
   <script src="//cdn.jsdelivr.net/99lime/0.94/js/kickstart.js"></script>
   <script type="text/javascript">
