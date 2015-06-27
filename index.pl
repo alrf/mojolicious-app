@@ -100,7 +100,7 @@ __DATA__
       #pid {
         width: 50px;
       }
-	  /* Error message should be displayed immediately above "Add" button. */
+      /* Error message should be displayed immediately above "Add" button. */
       #pid-error {
         display: block;
       }
